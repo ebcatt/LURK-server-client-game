@@ -25,6 +25,8 @@ I built this project as part of coursework focused on systems and network progra
 
 ## How to run it
 
+**CLIENT FILE WILL BE ADDED LATER
+
 This project was developed and tested in a Linux-based environment and was run through a port on the Isoptera server.
 
 General setup:
